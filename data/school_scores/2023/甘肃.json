@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:55:32",
+  "update_time": "2026-05-01 06:11:53",
   "year": "2023",
   "province_id": "62",
   "province": "甘肃",
-  "count": 46,
+  "count": 47,
   "data": [
     {
       "school_id": "40",
@@ -553,6 +553,18 @@
       "type": "1",
       "type_name": "文科",
       "min_score": "160",
+      "year": "2023",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "1387",
+      "school_name": "河北传媒学院",
+      "province_id": "62",
+      "province": "甘肃",
+      "type": "1",
+      "type_name": "文科",
+      "min_score": "364",
       "year": "2023",
       "batch": null,
       "min_rank": null

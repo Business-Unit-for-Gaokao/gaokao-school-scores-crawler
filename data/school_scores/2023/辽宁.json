@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:54:38",
+  "update_time": "2026-05-01 06:11:05",
   "year": "2023",
   "province_id": "21",
   "province": "辽宁",
-  "count": 17,
+  "count": 18,
   "data": [
     {
       "school_id": "40",
@@ -205,6 +205,18 @@
       "type": "2073",
       "type_name": "类型2073",
       "min_score": "264",
+      "year": "2023",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "1280",
+      "school_name": "昆明城市学院",
+      "province_id": "21",
+      "province": "辽宁",
+      "type": "2073",
+      "type_name": "类型2073",
+      "min_score": "425",
       "year": "2023",
       "batch": null,
       "min_rank": null

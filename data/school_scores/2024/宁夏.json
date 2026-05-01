@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:58:03",
+  "update_time": "2026-05-01 06:08:21",
   "year": "2024",
   "province_id": "64",
   "province": "宁夏",
-  "count": 40,
+  "count": 41,
   "data": [
     {
       "school_id": "659",
@@ -481,6 +481,18 @@
       "type": "1",
       "type_name": "文科",
       "min_score": "448",
+      "year": "2024",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "948",
+      "school_name": "江西应用技术职业学院",
+      "province_id": "64",
+      "province": "宁夏",
+      "type": "1",
+      "type_name": "文科",
+      "min_score": "325",
       "year": "2024",
       "batch": null,
       "min_rank": null

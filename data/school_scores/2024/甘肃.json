@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:58:03",
+  "update_time": "2026-05-01 06:12:59",
   "year": "2024",
   "province_id": "62",
   "province": "甘肃",
-  "count": 57,
+  "count": 59,
   "data": [
     {
       "school_id": "565",
@@ -685,6 +685,30 @@
       "type": "2073",
       "type_name": "类型2073",
       "min_score": "460",
+      "year": "2024",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "1171",
+      "school_name": "常州信息职业技术学院",
+      "province_id": "62",
+      "province": "甘肃",
+      "type": "2073",
+      "type_name": "类型2073",
+      "min_score": "401",
+      "year": "2024",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "1542",
+      "school_name": "连云港师范学院",
+      "province_id": "62",
+      "province": "甘肃",
+      "type": "2073",
+      "type_name": "类型2073",
+      "min_score": "342",
       "year": "2024",
       "batch": null,
       "min_rank": null

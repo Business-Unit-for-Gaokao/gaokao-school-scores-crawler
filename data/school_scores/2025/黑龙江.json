@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:58:40",
+  "update_time": "2026-05-01 05:59:47",
   "year": "2025",
   "province_id": "23",
   "province": "黑龙江",
-  "count": 1509,
+  "count": 1510,
   "data": [
     {
       "school_id": "30",
@@ -18109,6 +18109,18 @@
       "type": "2073",
       "type_name": "类型2073",
       "min_score": "568",
+      "year": "2025",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "44",
+      "school_name": "湖南大学",
+      "province_id": "23",
+      "province": "黑龙江",
+      "type": "2073",
+      "type_name": "类型2073",
+      "min_score": "596",
       "year": "2025",
       "batch": null,
       "min_rank": null

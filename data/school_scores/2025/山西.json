@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:58:45",
+  "update_time": "2026-05-01 06:06:14",
   "year": "2025",
   "province_id": "14",
   "province": "山西",
-  "count": 1946,
+  "count": 1948,
   "data": [
     {
       "school_id": "30",
@@ -23353,6 +23353,30 @@
       "type": "2073",
       "type_name": "类型2073",
       "min_score": "452",
+      "year": "2025",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "44",
+      "school_name": "湖南大学",
+      "province_id": "14",
+      "province": "山西",
+      "type": "2073",
+      "type_name": "类型2073",
+      "min_score": "587",
+      "year": "2025",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "706",
+      "school_name": "上海中侨职业技术大学",
+      "province_id": "14",
+      "province": "山西",
+      "type": "2073",
+      "type_name": "类型2073",
+      "min_score": "386",
       "year": "2025",
       "batch": null,
       "min_rank": null

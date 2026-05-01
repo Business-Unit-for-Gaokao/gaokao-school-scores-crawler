@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:53:24",
+  "update_time": "2026-05-01 06:06:46",
   "year": "2023",
   "province_id": "41",
   "province": "河南",
-  "count": 15,
+  "count": 16,
   "data": [
     {
       "school_id": "40",
@@ -181,6 +181,18 @@
       "type": "1",
       "type_name": "文科",
       "min_score": "369",
+      "year": "2023",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "754",
+      "school_name": "石家庄财经职业学院",
+      "province_id": "41",
+      "province": "河南",
+      "type": "1",
+      "type_name": "文科",
+      "min_score": "191",
       "year": "2023",
       "batch": null,
       "min_rank": null

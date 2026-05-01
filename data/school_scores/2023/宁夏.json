@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:55:14",
+  "update_time": "2026-05-01 06:06:46",
   "year": "2023",
   "province_id": "64",
   "province": "宁夏",
-  "count": 23,
+  "count": 24,
   "data": [
     {
       "school_id": "669",
@@ -277,6 +277,18 @@
       "type": "1",
       "type_name": "文科",
       "min_score": "423",
+      "year": "2023",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "781",
+      "school_name": "四川国际标榜职业学院",
+      "province_id": "64",
+      "province": "宁夏",
+      "type": "1",
+      "type_name": "文科",
+      "min_score": "224",
       "year": "2023",
       "batch": null,
       "min_rank": null

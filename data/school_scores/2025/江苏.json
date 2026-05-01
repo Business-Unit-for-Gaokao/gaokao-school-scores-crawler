@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:58:45",
+  "update_time": "2026-05-01 06:11:53",
   "year": "2025",
   "province_id": "32",
   "province": "江苏",
-  "count": 1540,
+  "count": 1541,
   "data": [
     {
       "school_id": "30",
@@ -18481,6 +18481,18 @@
       "type": "2073",
       "type_name": "类型2073",
       "min_score": "477",
+      "year": "2025",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "1388",
+      "school_name": "苏州卫生职业技术学院",
+      "province_id": "32",
+      "province": "江苏",
+      "type": "2073",
+      "type_name": "类型2073",
+      "min_score": "451",
       "year": "2025",
       "batch": null,
       "min_rank": null

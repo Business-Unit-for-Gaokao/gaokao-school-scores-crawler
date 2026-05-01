@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:56:11",
+  "update_time": "2026-05-01 06:08:37",
   "year": "2023",
   "province_id": "53",
   "province": "云南",
-  "count": 32,
+  "count": 33,
   "data": [
     {
       "school_id": "40",
@@ -385,6 +385,18 @@
       "type": "2",
       "type_name": "理科",
       "min_score": "325",
+      "year": "2023",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "974",
+      "school_name": "顺德职业技术大学",
+      "province_id": "53",
+      "province": "云南",
+      "type": "1",
+      "type_name": "文科",
+      "min_score": "380",
       "year": "2023",
       "batch": null,
       "min_rank": null

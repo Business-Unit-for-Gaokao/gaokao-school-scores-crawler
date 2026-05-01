@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-04-28 00:58:21",
+  "update_time": "2026-05-01 06:24:37",
   "year": "2024",
   "province_id": "35",
   "province": "福建",
-  "count": 55,
+  "count": 57,
   "data": [
     {
       "school_id": "305",
@@ -661,6 +661,30 @@
       "type": "2073",
       "type_name": "类型2073",
       "min_score": "588",
+      "year": "2024",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "939",
+      "school_name": "中国人民解放军国防科技大学",
+      "province_id": "35",
+      "province": "福建",
+      "type": "2073",
+      "type_name": "类型2073",
+      "min_score": "643",
+      "year": "2024",
+      "batch": null,
+      "min_rank": null
+    },
+    {
+      "school_id": "2885",
+      "school_name": "赣州师范高等专科学校",
+      "province_id": "35",
+      "province": "福建",
+      "type": "2073",
+      "type_name": "类型2073",
+      "min_score": "411",
       "year": "2024",
       "batch": null,
       "min_rank": null
